@@ -1,3 +1,3 @@
-## Welcome to GitHub Pages
+## Welcome to Readme-Finnq Tech Blog
 
-Welcome To Hello World Readme-Finnq Tech Blog
+
