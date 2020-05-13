@@ -2,4 +2,4 @@ remote_theme : mmistakes/minimal-mistakes
 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url                      : "https://readme-finnq.github.io" 
 # the subpath of your site, e.g. "/blog"
-baseurl                  : "https://readme-finnq.github.io/index.html" 
+baseurl                  : "https://readme-finnq.github.io/finnq" 
